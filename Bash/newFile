@@ -1,0 +1,19 @@
+
+        echo $y
+      fi
+      if [ -f $y ]; then
+     echo $x
+    do
+    done
+    fileInDir=($( find $x -maxdepth 1 -type f ))
+    for y in $fileInDir
+  else
+  fi
+  if [ -d $x ]; then
+#!/bin/bash
+This is bate file
+do
+done
+echo $files
+files=($( find /etc -maxdepth 1))
+for x in $files
